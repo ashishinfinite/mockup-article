@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1) I learned making text italic,bold,superscript,striking(deleting),footer,article,section and most importantly  thematic break
+   how contents are  inlined and made in block.
+
+2) its been easy formatting of paragraph
+
+3) everything was easy
+
+4) I googled the thing i want(e.g.elements) and read the usefull resource sites like w3schools.com to find most of the information
+   regarding the editting. 
